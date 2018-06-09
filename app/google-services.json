@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "87754182081",
+    "firebase_url": "https://meualbumdefotosfatecipin-17359.firebaseio.com",
+    "project_id": "meualbumdefotosfatecipin-17359",
+    "storage_bucket": "meualbumdefotosfatecipin-17359.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:87754182081:android:a2c7b4c371a242e3",
+        "android_client_info": {
+          "package_name": "br.com.bossini.meualbumdefotosfatecipinoite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "87754182081-05gntd993l52jt8j21hk31snbv4k1su3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.bossini.meualbumdefotosfatecipinoite",
+            "certificate_hash": "43f8b187a57ef46fcd0780c3bd438e893b4161d5"
+          }
+        },
+        {
+          "client_id": "87754182081-gma78mdo8aq39oui375or0alhlgpvntk.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "87754182081-gma78mdo8aq39oui375or0alhlgpvntk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAY8i6D11OskrjmUSA3Z08oYx8ho-Yi3JY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "87754182081-gma78mdo8aq39oui375or0alhlgpvntk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
